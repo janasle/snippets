@@ -1,3 +1,3 @@
 - (NSString *)description {
-    return [NSString stringWithFormat:@"<%@: %p; <#property#> = <#value#>;", NSStringFromClass([self class]), self, <#properties#>];
+    return [NSString stringWithFormat:@"<%@: %p; <#property#> = %@;", NSStringFromClass([self class]), self, <#properties#>];
 }
