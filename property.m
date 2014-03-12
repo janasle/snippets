@@ -1,0 +1,1 @@
+@property (nonatomic) <#type#> <#name#>;
